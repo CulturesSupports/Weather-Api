@@ -15,3 +15,6 @@ mobile data search
 it do not suck out mobile data on search
 but can still present localisation 
 accuracy
+
+it do not take consuming icon search
+queries
